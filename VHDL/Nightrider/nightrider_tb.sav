@@ -1,0 +1,11 @@
+[timestart] 0
+[size] 1366 699
+[pos] -1 -20
+*-45.737221 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.nightrider_tb.
+@28
+top.nightrider_tb.clk
+top.nightrider_tb.rst
+@29
+#leds[7:0] top.nightrider_tb.leds[7] top.nightrider_tb.leds[6] top.nightrider_tb.leds[5] top.nightrider_tb.leds[4] top.nightrider_tb.leds[3] top.nightrider_tb.leds[2] top.nightrider_tb.leds[1] top.nightrider_tb.leds[0]
